@@ -1,4 +1,4 @@
-````md
+
 # UniGuide AI
 
 UniGuide AI is an AI-powered university assistant designed to answer University of Jeddah questions using Retrieval-Augmented Generation (RAG), semantic search, and multilingual NLP.
@@ -134,21 +134,6 @@ Example Request:
 }
 ```
 
----
-
-# Project Structure
-
-```bash
-UniGuide_AI/
-│
-├── backend/
-├── Frontend/
-├── README.md
-├── requirements.txt
-└── rag_engine.py
-```
-
----
 
 # Installation
 
@@ -168,7 +153,6 @@ npm run dev
 
 ---
 
-# Screenshots
 
 The system includes:
 
@@ -184,12 +168,3 @@ The system includes:
 UniGuide AI aims to improve students’ access to university information through an intelligent conversational experience powered by modern AI, NLP, and RAG technologies.
 
 ---
-
-# Author
-
-Futoon Abuzaid
-University of Jeddah
-Artificial Intelligence
-
-```
-```
